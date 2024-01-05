@@ -6,7 +6,7 @@ import java.util.Set;
 public class exemplosSet {
 
 	public static void main(String[] args) {
-		//SET NAO ADICIONA OBJETOS COM OS MESMOS PARAMETROS
+		//SET NAO ACEITA ADICIONAS OBJETOS COM OS MESMOS PARAMETROS NA LISTA
 		Set<Pessoa> pessoas = new HashSet<>();
 		Pessoa lucas = new Pessoa(1L, "Lucas");
 		pessoas.add(lucas);
