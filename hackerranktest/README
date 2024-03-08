@@ -1,4 +1,11 @@
 Quando fui realizar com alguns testes do HackerRank sobre manipulação de strings em Java, tirei algumas dúvidas com o ChatGPT, mas estava com muita dificuldade em entender o que a IA estava tentando me dizer.
 Depois fui pegar com mais calma para realizar os testes solicitados pelo site, olhando docs e tirando algumas dúvidas mais simples com a IA.
 
+O teste solicitava a manipulação da String da seguinte forma:
+
+O usuário escreveria um texto 'criptografado', por exemplo: "piz2a love i"
+O código deveria pegar todos os números digitados e adicionar a última letra verificada (quantas vezes o número solicitasse, menos um).
+Após transformar os dígitos em letras, o texto deveria realizar a reversão da ordem das palavras.
+
+
 OBS: Nenhum código foi copiado da IA.
